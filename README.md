@@ -16,7 +16,7 @@ Add Arna animations as a dependency in your pubspec.yaml:
 
 ```yaml
 dependencies:
-  arna_animations: ^1.0.0
+  arna_animations: ^1.0.1
 ```
 
 Import it:

@@ -1,6 +1,6 @@
 name: arna_animations
 description: A package that provides basic animations to your flutter application.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/MahanRahmati/arna_animations
 
 environment:
